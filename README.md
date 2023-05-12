@@ -25,9 +25,13 @@ When you run the `rawcode.py` script, a window will appear showing the current s
 - **input the number of resources and processes**: Click the "generate" button to intialize the tables. You have to enter the maximum resource requirements for the process before pressing the "generate button.
 - ![Main GUI](/images/1.png "Main GUI")
 - **Filling the max ,Allocation and total tables**: put the numbers for each mentioned table then press"enter" button.
+- - ![Main GUI](/images/2.png "Main GUI")
 - **user entry**:user can add additional resource request by giving the procces and resource id and the amount of process needed then press the "user entry" button.
+- - ![Main GUI](/images/3.png "Main GUI")
 - **press enter**:press enter button to update the need and avalaible table to be ready to check the system after the user entry input(you can skip this step if u skipped the previous one).
+- - ![Main GUI](/images/4.png "Main GUI")
 - **the system state and the safe sequence**: Simply press "check" button to show the results.
+- - ![Main GUI](/images/5.png "Main GUI")
 
 The GUI will update to show the new state of the system after each action.
 
