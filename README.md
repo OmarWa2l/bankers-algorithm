@@ -33,6 +33,6 @@ When you run the `rawcode.py` script, a window will appear showing the current s
 - **the system state and the safe sequence**: Simply press "check" button to show the results.
 - - ![Main GUI](/images/5.png "Main GUI")
 
-The GUI will update to show the new state of the system after each action.
+
 
 
