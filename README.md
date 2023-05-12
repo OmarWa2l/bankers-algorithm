@@ -23,7 +23,7 @@ python rawcode.py
 When you run the `rawcode.py` script, a window will appear showing the current state of the system. You can use the following controls to interact with the system:
 
 - **input the number of resources and processes**: Click the "generate" button to intialize the tables. You have to enter the maximum resource requirements for the process before pressing the "generate button.
-- ![alt text](https://github.com/[OmarWa2l]/[bankers-algorithm]/blob/[images]/1.jpg?raw=true)
+- ![alt text](https://github.com/[OmarWa2l]/[bankers-algorithm]/[images]/1.png?raw=true)
 - **Filling the max ,Allocation and total tables**: put the numbers for each mentioned table then press"enter" button.
 - **user entry**:user can add additional resource request by giving the procces and resource id and the amount of process needed then press the "user entry" button.
 - **press enter**:press enter button to update the need and avalaible table to be ready to check the system after the user entry input(you can skip this step if u skipped the previous one).
